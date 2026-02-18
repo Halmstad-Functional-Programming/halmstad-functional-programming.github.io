@@ -1,6 +1,7 @@
 .content {
-    padding: 1em 0em 0em 0em;
+    padding: 1em;
     margin: auto;
+    margin-top: 4em;
     align-content: center;
     max-width: 800px;
 }
