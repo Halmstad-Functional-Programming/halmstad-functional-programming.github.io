@@ -18,6 +18,7 @@ h1 {
 }
 
 h2 {
+    font-family: monospace;
     margin: 1em 0em 0em 0em;
     font-size: 1.3em;
     line-height: 1.2em;
@@ -36,14 +37,16 @@ h2 {
 
 ul {
     line-height: 1.6em;
+    list-style-type: square;
 }
 
 a {
-    color: black;
+    color: #088;
+    text-decoration: none;
 }
 
 a:hover {
-    color: #555;
+    color: #0cc;
 }
 
 p {
